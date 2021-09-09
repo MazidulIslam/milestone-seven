@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Relod</title>
+</head>
+<body>
+    <h1>Location</h1>
+    <button onclick="refreshPage()">Refresh</button>
+    <button onclick="visitFb()">Visit fb</button>
+    <script>
+        const refreshPage = ()=>{
+            location.reload();
+        }
+        const visitFb = ()=>{
+            location.assign('https://facebook.com');
+        }
+    </script>
+    <!-- location on console or window.location , search(query), hash(#), path, origin, protocol -->
+    <!-- history.back(), history.forward(), history.go(-4),, history(0) -->
+</body>
+</html>

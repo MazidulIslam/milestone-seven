@@ -1,0 +1,11 @@
+javascript v8 engine 
+engine written in c++
+just intime compiler (jit compiler)
+javascript event loop(video)
+javascript sync async
+javascript itself single threaded
+setTimeout function waits in the queue until the stack is empty and it will execute last even settimeout is 
+0
+
+(synchronous means One after Another and Asynchronous means CallBack or Promises)
+javascript runs with both sync & async 

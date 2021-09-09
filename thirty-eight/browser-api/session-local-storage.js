@@ -1,0 +1,1 @@
+// Session storage keeps the data from tha particular session(that means browser time data keeps and browser of lost data) but local storage  keeps data parmanently 
