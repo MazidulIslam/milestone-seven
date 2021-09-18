@@ -1,0 +1,23 @@
+console.assert() assert if check two things are same or not
+console.clear()
+monitor(function) this is for console to monitor something
+monitorEvents , you need to provide monitorEvents
+unmonitor
+console.debug()
+
+Regular Expression for beginner javascript (sitepoint recommenneded)
+
+check capital A-Z or 0-9 or a-z is like 
+/[A-Z]/ or /[a-z]/ or /[0-9]/
+/[A-Z]/.test(myPassword)
+
+DOMcontentLoaded search on web 
+console tab utilities api [need to read the doc]
+
+---------------------
+defination 
+-------------
+what is accessibility
+what is call stack
+what is the purpose of regular expression 
+what is the purpose of the lighhouse tab of chrome
